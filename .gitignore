@@ -24,3 +24,20 @@
 conftest.py
 __pycache__/
 .pytest_cache/
+
+# Some other files
+
+venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
